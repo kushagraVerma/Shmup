@@ -1,0 +1,10 @@
+.para{
+  font-family: sans-serif;
+  color: 1px 1px #777777;
+  background-color: #000099;
+  border-radius: 10px;
+  padding: 5px;
+}
+body{
+  background-color: #000088;
+}
